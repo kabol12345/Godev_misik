@@ -70,7 +70,7 @@
 	"iklan": "1"
     }
  ,
-  "home": [
+  "TELOLET": [
     {
       "id": 1,
       "judul": "TELOLET 1",
@@ -114,7 +114,7 @@
       "link": "https://archive.org/download/telolet-basuri-klakso-lagu/Klakson%20Lagu%20Telolet%20Basuri/TELOLET%20AKU%20RAPOPO.mp3"
     }
   ],
-  "foryoux": [
+  "TELOLET BUSSID": [
     {
       "id": 1,
       "judul": "TELOLET BUSSID 1",
@@ -159,7 +159,7 @@
     }
   
   ],
-  "trendingx": [
+  "NOTIFICATION": [
     {
       "id": 1,
       "judul": "Mobile Legends: Bang Bang",
