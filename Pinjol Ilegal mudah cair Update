@@ -9,9 +9,9 @@
 
 
 
-		"Bidding_Open_Ads": "1",
-		"Bidding_Admob_Inter": "1",
-		"Bidding_Admob_Banner": "1",
+		"Bidding_Open_Ads": "0",
+		"Bidding_Admob_Inter": "0",
+		"Bidding_Admob_Banner": "0",
 		"Bidding_Admob_Native": "0",
 
 
@@ -47,7 +47,7 @@
 		"appdeal": "0",
 
 
-		"Backup_Fan_inter": "1",
+		"Backup_Fan_inter": "0",
 		"Backup_Admob_Inter": "0",
 		"Backup_Appodeal": "0",
 		"Backup_ApplovinMax_Inter": "0",
