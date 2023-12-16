@@ -18,9 +18,9 @@
 	"NativeFan": "199850962620816_199853335953912",
 	"BannerFan": "199850962620816_199853049287274",
 
-	"Fan": "1",
-	"BannerFanAds": "1",
-	"NativeFanAds": "1",
+	"Fan": "0",
+	"BannerFanAds": "0",
+	"NativeFanAds": "0",
 
 	"InterApplovinId": "537e19f2f92132f8",
 	"BannerApplovinId": "9a6b15a371a92518",
@@ -28,7 +28,7 @@
 	"VideoReword": "0",
 	"NativeApplovin": "675de1870de10b77",
 
-	"Applovin": "1",
+	"Applovin": "0",
 	"BannerApplovin": "0",
 
 	"Bidding_Applovin_Inter": "0",
